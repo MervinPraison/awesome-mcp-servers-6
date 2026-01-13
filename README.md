@@ -166,6 +166,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [PBS API](https://github.com/matthewdcage/pbs-mcp-server) - Australian Pharmaceutical Benefits Scheme PBS API Server using Anthropic MCP with natural language LLM integration
 - [Perplexity MCP Server](https://github.com/tanigami/mcp-server-perplexity) - Provides a server for interacting with the Perplexity API via Claude Desktop
 - [PiAPI MCP Server](https://github.com/apinetwork/piapi-mcp-server) - A TypeScript implementation of a Model Context Protocol (MCP) server that integrates with PiAPI's API. PiAPI makes user able to generate media content with Midjourney/Flux/Kling/LumaLabs/Udio/Chrip/Trellis directly from Claude or any other MCP-compatible apps.
+- [PraisonAI MCP](https://github.com/MervinPraison/praisonai-mcp) - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.
 - [Pinecone MCP Server](https://github.com/sirmews/mcp-pinecone) - Model Context Protocol server to allow for reading and writing from Pinecone. Rudimentary RAG
 - [PlaneMCP](https://github.com/kelvin6365/plane-mcp-server) - Manages Plane.so projects and issues via its API for LLMs
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Enables LLMs to interact with web pages via structured accessibility data using Playwright, eliminating the need for visual models
